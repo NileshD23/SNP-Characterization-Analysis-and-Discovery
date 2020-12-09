@@ -1,2 +1,3 @@
 # SNP-Characterization-Analysis-and-Discovery
 To analyze the SNP data, this program finds the variants with the maximum and minimum variant frequency in a given population. To characterize the SNP data, this program collects a list of individuals that have varaints tha toccur in genes associated with Non-Hodgkin lymphoma. To discover new variants, this program scans over each indivdual's chromosme sequence, compares each nucleotide against the reference sequence and keeps track of newly discovered variants and the alternate base call. It outputs an SNP table listing the newly discovered SNPs. 
+*slim_chr2_seq.fasta too large to upload, available at request*
