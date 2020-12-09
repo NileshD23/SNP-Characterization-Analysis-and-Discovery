@@ -1,0 +1,2 @@
+SNP Position	Reference SNP	Alternate SNP	SNP Frequency
+{'A': 1275, 'T': 752, 'G': 1836, 'C': 909}
